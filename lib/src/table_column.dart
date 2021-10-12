@@ -87,7 +87,7 @@ class TableColumn extends StatelessWidget {
                                         horizontal: 4.0, vertical: 2.0),
                                     decoration: BoxDecoration(
                                         border: Border.all(
-                                      width: 0.5,
+                                      width: 3.0,
                                       color: Colors.grey.withOpacity(0.5),
                                     )),
                                     child: Text(
@@ -100,7 +100,7 @@ class TableColumn extends StatelessWidget {
                                       ),
                                       textAlign: TextAlign.center,
                                       style: TextStyle(
-                                        fontSize: 10.0,
+                                        fontSize: 14.0,
                                       ),
                                     ),
                                   ),
