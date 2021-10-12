@@ -100,7 +100,7 @@ class TableColumn extends StatelessWidget {
                                       ),
                                       textAlign: TextAlign.center,
                                       style: TextStyle(
-                                        fontSize: 14.0,
+                                        fontSize: 10.0,
                                       ),
                                     ),
                                   ),
