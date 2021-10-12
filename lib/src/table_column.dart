@@ -65,7 +65,7 @@ class TableColumn extends StatelessWidget {
                             onRowTap(dataList!.indexOf(rowMap), rowMap);
                           },
                           child: Container(
-                            height:30,
+                            height: 25,
                             color: (allowRowHighlight &&
                                     highlightedRowIndex != null &&
                                     highlightedRowIndex ==
