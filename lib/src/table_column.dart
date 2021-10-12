@@ -84,7 +84,7 @@ class TableColumn extends StatelessWidget {
                                   )
                                 : Container(
                                     padding: EdgeInsets.symmetric(
-                                        horizontal: 4.0, vertical: 4.0),
+                                        horizontal: 4.0, vertical: 2.0),
                                     decoration: BoxDecoration(
                                         border: Border.all(
                                       width: 0.5,
